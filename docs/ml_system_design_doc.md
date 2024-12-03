@@ -246,11 +246,11 @@
 
 - **Архитектура решения:**
 
-    <img src="imgs/chat_analysis_scheme.png" alt="Схема анализа чата" width="800" height="600">
+    <img src="imgs/chat_analysis_scheme.png" alt="Схема анализа чата" style="max-width: 100%; height: auto;">
 
 - **Взаимодействие компонентов:**
 
-    <img src="imgs/service_architecture.png" alt="Схема Взаимодействие компонентов" width="800" height="600">
+    <img src="imgs/service_architecture.png" alt="Схема Взаимодействие компонентов" style="max-width: 100%; height: auto;">
 
 ### 4.2 Инфраструктура и масштабируемость
 
@@ -362,9 +362,9 @@
 
 ---
 
-**Примечание:** Данный дизайн-документ был улучшен для повышения читаемости и эстетического оформления без утраты важных деталей и> ### Материалы для дополнительного погружения в тему  
-> - [Шаблон ML System Design Doc [EN] от AWS](https://github.com/eugeneyan/ml-design-docs) и [статья](https://eugeneyan.com/writing/ml-design-docs/) с объяснением каждого раздела  
-> - [Верхнеуровневый шаблон ML System Design Doc от Google](https://towardsdatascience.com/the-undeniable-importance-of-design-docs-to-data-scientists-421132561f3c) и [описание общих принципов его заполнения](https://towardsdatascience.com/understanding-design-docs-principles-for-achieving-data-scientists-53e6d5ad6f7e).
-> - [ML Design Template](https://www.mle-interviews.com/ml-design-template) от ML Engineering Interviews  
-> - Статья [Design Documents for ML Models](https://medium.com/people-ai-engineering/design-documents-for-ml-models-bbcd30402ff7) на Medium. Верхнеуровневые рекомендации по содержанию дизайн-документа и объяснение, зачем он вообще нужен  
-> - [Краткий Canvas для ML-проекта от Made with ML](https://madewithml.com/courses/mlops/design/#timeline). Подходит для верхнеуровневого описания идеи, чтобы понять, имеет ли смысл идти дальше.
+### Материалы для дополнительного погружения в тему  
+docs/) с объяснением каждого раздела  
+- [Верхнеуровневый шаблон ML System Design Doc от Google](https://towardsdatascience.com/the-undeniable-importance-of-design-docs-to-data-scientists-421132561f3c) и [описание общих принципов его заполнения](https://towardsdatascience.com/understanding-design-docs-principles-for-achieving-data-scientists-53e6d5ad6f7e).
+- [ML Design Template](https://www.mle-interviews.com/ml-design-template) от ML Engineering Interviews  
+- Статья [Design Documents for ML Models](https://medium.com/people-ai-engineering/design-documents-for-ml-models-bbcd30402ff7) на Medium. Верхнеуровневые рекомендации по содержанию дизайн-документа и объяснение, зачем он вообще нужен  
+- [Краткий Canvas для ML-проекта от Made with ML](https://madewithml.com/courses/mlops/design/#timeline). Подходит для верхнеуровневого описания идеи, чтобы понять, имеет ли смысл идти дальше.
