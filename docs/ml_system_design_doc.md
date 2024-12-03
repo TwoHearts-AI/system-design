@@ -1,3 +1,5 @@
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/TwoHearts-AI/system-design/main.svg)](https://results.pre-commit.ci/latest/github/TwoHearts-AI/system-design/main)
+
 # Дизайн документа ML-системы - TwoHearts_AI MVP 1.0
 
 *Основано на шаблоне ML System Design Doc от телеграм-канала [Reliable ML](https://t.me/reliable_ml)*
