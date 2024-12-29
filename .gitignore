@@ -7,6 +7,8 @@
 # Ignore any .env files in any folder
 **/.env
 
+EDA/data
+
 # Ignore any __pycache__ folders in any folder
 **/__pycache__/
 
